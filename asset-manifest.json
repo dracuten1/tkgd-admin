@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tkgd-admin/static/css/main.6a73e6e3.chunk.css",
+    "main.js": "/tkgd-admin/static/js/main.3880307b.chunk.js",
+    "main.js.map": "/tkgd-admin/static/js/main.3880307b.chunk.js.map",
+    "runtime-main.js": "/tkgd-admin/static/js/runtime-main.0d358341.js",
+    "runtime-main.js.map": "/tkgd-admin/static/js/runtime-main.0d358341.js.map",
+    "static/css/2.7ef3a9eb.chunk.css": "/tkgd-admin/static/css/2.7ef3a9eb.chunk.css",
+    "static/js/2.8168901f.chunk.js": "/tkgd-admin/static/js/2.8168901f.chunk.js",
+    "static/js/2.8168901f.chunk.js.map": "/tkgd-admin/static/js/2.8168901f.chunk.js.map",
+    "index.html": "/tkgd-admin/index.html",
+    "precache-manifest.66590bd0acfd7eaf63eaf6d36bba567c.js": "/tkgd-admin/precache-manifest.66590bd0acfd7eaf63eaf6d36bba567c.js",
+    "service-worker.js": "/tkgd-admin/service-worker.js",
+    "static/css/2.7ef3a9eb.chunk.css.map": "/tkgd-admin/static/css/2.7ef3a9eb.chunk.css.map",
+    "static/css/main.6a73e6e3.chunk.css.map": "/tkgd-admin/static/css/main.6a73e6e3.chunk.css.map",
+    "static/js/2.8168901f.chunk.js.LICENSE": "/tkgd-admin/static/js/2.8168901f.chunk.js.LICENSE",
+    "static/media/Login.css": "/tkgd-admin/static/media/bg.61207a6a.svg",
+    "static/media/SideBar.css": "/tkgd-admin/static/media/bg.abe4a318.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d358341.js",
+    "static/css/2.7ef3a9eb.chunk.css",
+    "static/js/2.8168901f.chunk.js",
+    "static/css/main.6a73e6e3.chunk.css",
+    "static/js/main.3880307b.chunk.js"
+  ]
+}
