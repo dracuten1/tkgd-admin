@@ -1,0 +1,29 @@
+.login-form {
+	max-width: 400px;
+	padding: 20px;
+}
+.login-form-forgot {
+	float: right;
+}
+.form-button {
+	width: 100%;
+	background-color: rgb(62, 208, 166);
+	color: white;
+	font-size: 16px;
+	border: none;
+}
+.form-button:hover {
+	color: rgb(255, 255, 255);
+	border-color: rgb(43, 176, 138);
+	background: rgb(43, 176, 138);
+}
+.bg-admin-login {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient(90deg, rgb(25, 118, 210) calc(100% - 70rem), rgba(25, 118, 210, 0) 100%),
+		url('../../../bg.svg');
+	background-color: rgb(25, 118, 210);
+	min-height: 100vh;
+}
