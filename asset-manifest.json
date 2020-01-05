@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tkgd-admin/static/css/main.6a73e6e3.chunk.css",
-    "main.js": "/tkgd-admin/static/js/main.812560e8.chunk.js",
-    "main.js.map": "/tkgd-admin/static/js/main.812560e8.chunk.js.map",
+    "main.js": "/tkgd-admin/static/js/main.4e317319.chunk.js",
+    "main.js.map": "/tkgd-admin/static/js/main.4e317319.chunk.js.map",
     "runtime-main.js": "/tkgd-admin/static/js/runtime-main.0d358341.js",
     "runtime-main.js.map": "/tkgd-admin/static/js/runtime-main.0d358341.js.map",
     "static/css/2.7ef3a9eb.chunk.css": "/tkgd-admin/static/css/2.7ef3a9eb.chunk.css",
     "static/js/2.6582323f.chunk.js": "/tkgd-admin/static/js/2.6582323f.chunk.js",
     "static/js/2.6582323f.chunk.js.map": "/tkgd-admin/static/js/2.6582323f.chunk.js.map",
     "index.html": "/tkgd-admin/index.html",
-    "precache-manifest.c208f6b8c7964c93a9cd2068068087fe.js": "/tkgd-admin/precache-manifest.c208f6b8c7964c93a9cd2068068087fe.js",
+    "precache-manifest.46b0045239c376f1a07cca1247e3f0ea.js": "/tkgd-admin/precache-manifest.46b0045239c376f1a07cca1247e3f0ea.js",
     "service-worker.js": "/tkgd-admin/service-worker.js",
     "static/css/2.7ef3a9eb.chunk.css.map": "/tkgd-admin/static/css/2.7ef3a9eb.chunk.css.map",
     "static/css/main.6a73e6e3.chunk.css.map": "/tkgd-admin/static/css/main.6a73e6e3.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.7ef3a9eb.chunk.css",
     "static/js/2.6582323f.chunk.js",
     "static/css/main.6a73e6e3.chunk.css",
-    "static/js/main.812560e8.chunk.js"
+    "static/js/main.4e317319.chunk.js"
   ]
 }
